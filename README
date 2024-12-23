@@ -1,0 +1,17 @@
+Correção e Salvamento de Arquivos JSON
+
+Este projeto tem como objetivo corrigir e formatar dados corrompidos em dois arquivos JSON. Ele substitui caracteres específicos e ajusta o formato de alguns valores, salvando os dados corrigidos em novos arquivos JSON.
+
+Tecnologias Utilizadas
+
+Node.js: Usado para rodar o script.
+fs (File System): Biblioteca nativa do Node.js para leitura e escrita de arquivos.
+
+Como Usar
+
+Clone o repositório ou baixe o código fonte.
+Abra o terminal e navegue até o diretório do projeto.
+Execute o script para corrigir os arquivos JSON.
+
+Rodar o script
+node script.js
